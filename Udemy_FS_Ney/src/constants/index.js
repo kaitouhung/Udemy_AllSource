@@ -1,0 +1,1 @@
+export const URI_FETCH = 'https://final-mern-0106.herokuapp.com';
